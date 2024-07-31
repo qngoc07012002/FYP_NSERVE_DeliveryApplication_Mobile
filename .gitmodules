@@ -1,0 +1,9 @@
+[submodule "Customer"]
+	path = Customer
+	url = https://github.com/qngoc07012002/FYP_NSERVE_DeliveryApplication_Mobile_Customer
+[submodule "Driver"]
+	path = Driver
+	url = https://github.com/qngoc07012002/FYP_NSERVE_DeliveryApplication_Mobile_Driver
+[submodule "Restaurant"]
+	path = Restaurant
+	url = https://github.com/qngoc07012002/FYP_NSERVE_DeliveryApplication_Mobile_Restaurant
